@@ -6,24 +6,24 @@
 - **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_DrPeterGaied`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-02 13:41:10`
+- **Repo Created**: `2025-06-02 13:42:48`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-02 13:41:10`
-- **This Commit SHA**: `120f22de8c46f6774e94dba38bbe513c917ba1d2`
+- **This Commit Timestamp**: `2025-06-02 13:42:48`
+- **This Commit SHA**: `44b81adf77737175ba99171924061a4580efe078`
 - **Last Commit Message**: `Post-Radicle sync at 2025-06-02 13:39:46`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Mon Jun 2 13:40:56 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/120f22de8c46f6774e94dba38bbe513c917ba1d2](https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/120f22de8c46f6774e94dba38bbe513c917ba1d2)
+- **Last Commit Date**: `Mon Jun 2 13:42:15 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/44b81adf77737175ba99171924061a4580efe078](https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/44b81adf77737175ba99171924061a4580efe078)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `10`
+- **Total Commits**: `17`
 - **Tracked Files**: `12`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 56 minutes`
+- **System Uptime**: `up 58 minutes`
 - **MAC Address**: `00:15:5d:20:1e:5b`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
