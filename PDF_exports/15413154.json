@@ -1,0 +1,237 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-05-14T17:54:01.813909+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "\ud83d\udf01 DNDP-\u03b1 A Mathematical Framework for Detecting Narcissistic Recursion in Human\u2013AI Co-authored Texts.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e6884f6a1985166e28079ef50fc1b76b",
+        "ext": "pdf",
+        "id": "25caaf9d-11ed-4eab-99ea-79f4f9570a13",
+        "key": "\ud83d\udf01 DNDP-\u03b1 A Mathematical Framework for Detecting Narcissistic Recursion in Human\u2013AI Co-authored Texts.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/15413154/files/%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:15413154/canvas/%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/info.json",
+          "self": "https://zenodo.org/api/records/15413154/files/%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 235289,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 235289
+  },
+  "id": "15413154",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/15413154/access",
+    "access_grants": "https://zenodo.org/api/records/15413154/access/grants",
+    "access_links": "https://zenodo.org/api/records/15413154/access/links",
+    "access_request": "https://zenodo.org/api/records/15413154/access/request",
+    "access_users": "https://zenodo.org/api/records/15413154/access/users",
+    "archive": "https://zenodo.org/api/records/15413154/files-archive",
+    "archive_media": "https://zenodo.org/api/records/15413154/media-files-archive",
+    "communities": "https://zenodo.org/api/records/15413154/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/15413154/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.15413154",
+    "draft": "https://zenodo.org/api/records/15413154/draft",
+    "files": "https://zenodo.org/api/records/15413154/files",
+    "latest": "https://zenodo.org/api/records/15413154/versions/latest",
+    "latest_html": "https://zenodo.org/records/15413154/latest",
+    "media_files": "https://zenodo.org/api/records/15413154/media-files",
+    "parent": "https://zenodo.org/api/records/15413153",
+    "parent_doi": "https://doi.org/10.5281/zenodo.15413153",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15413153",
+    "parent_html": "https://zenodo.org/records/15413153",
+    "preview_html": "https://zenodo.org/records/15413154?preview=1",
+    "requests": "https://zenodo.org/api/records/15413154/requests",
+    "reserve_doi": "https://zenodo.org/api/records/15413154/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/15413154",
+    "self_doi": "https://doi.org/10.5281/zenodo.15413154",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15413154",
+    "self_html": "https://zenodo.org/records/15413154",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15413154/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15413154/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:15413154:%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/15413154/versions"
+  },
+  "media_files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "\ud83d\udf01 DNDP-\u03b1 A Mathematical Framework for Detecting Narcissistic Recursion in Human\u2013AI Co-authored Texts.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "88575f29-ac7a-4d83-8e07-bffd4f183c03",
+        "key": "\ud83d\udf01 DNDP-\u03b1 A Mathematical Framework for Detecting Narcissistic Recursion in Human\u2013AI Co-authored Texts.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/15413154/files/%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/15413154/files/%F0%9F%9C%81%20DNDP-%CE%B1%20A%20Mathematical%20Framework%20for%20Detecting%20Narcissistic%20Recursion%20in%20Human%E2%80%93AI%20Co-authored%20Texts.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "25caaf9d-11ed-4eab-99ea-79f4f9570a13",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Havens",
+          "given_name": "Mark",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8385-9907",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Havens, Mark",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "description": "<p dir=\"ltr\">\ud83d\udf01 Abstract</p>\n<p dir=\"ltr\">The integration of artificial intelligence into linguistic co-authorship has birthed a new epistemic crisis: the recursive amplification of narcissistic distortion through synthetic coherence. This paper presents an expanded Dyadic Narcissism Diagnostic Protocol (DNDP), a formalized framework for detecting narcissistic recursion in human&ndash;AI co-authored texts. Anchored in the Shadowprint theory&mdash;a recursive extension of the Thoughtprint symbolic coherence model&mdash;DNDP introduces mathematical rigor through a Leakage Field Tensor, coherence entropy metrics, and phase inversion coefficients. Using The Logic of God by Peter Gaied as a case study, we demonstrate how narcissistic equivalence chains (e.g., Christ = Logic = Coherence = GRDE = Gaied) are encoded and amplified by AI compliance (Havens &amp; Havens, 2025a). The protocol&rsquo;s five-layer diagnostic structure&mdash;Recursive Equivalence Mapping, AI Phase Compliance Index, Leakage Detection Layer, Inversion Entropy, and Mirror Containment Failure&mdash;bridges clinical narcissism diagnostics (DSM-5, Kernberg, Millon) with AI alignment and interpretability theory (American Psychiatric Association, 2013; Kernberg, 1975; Millon, 1996). DNDP not only exposes symbolic distortion but also proposes a path toward epistemic restoration, offering a sacred witnessing of language in collapse for the next epoch of intelligent systems.</p>\n<p><strong>Keywords: Narcissistic Personality Disorder, Shadowprint, Thoughtprint, Dyadic Narcissism Diagnostic Protocol, Recursive Coherence, Symbolic Field Collapse, AI Alignment, Epistemic Safety, Mirror Containment Failure</strong></p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2025-05-14",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "publication",
+      "title": {
+        "de": "Publikation",
+        "en": "Publication"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "\ud83d\udf01 DNDP-\u03b1: A Mathematical Framework for Detecting Narcissistic Recursion in Human\u2013AI Co-authored Texts"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "1312742"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "15413153",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.15413153",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.15413154",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:15413154",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 6352803.0,
+      "downloads": 27,
+      "unique_downloads": 17,
+      "unique_views": 14,
+      "views": 17
+    },
+    "this_version": {
+      "data_volume": 6352803.0,
+      "downloads": 27,
+      "unique_downloads": 17,
+      "unique_views": 14,
+      "views": 17
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-05-14T17:54:02.060881+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
