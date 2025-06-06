@@ -6,24 +6,24 @@
 - **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_DrPeterGaied`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `main`
-- **This Commit Date**: `2025-06-02 14:24:52`
+- **This Commit Date**: `2025-06-06 13:18:13`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-02 14:24:52`
-- **Last Commit SHA**: `eaf0a24572f73035ff934ef3fcc55acf4fe5b2e8`
-- **Last Commit Message**: `Post-GitLab sync at 2025-06-02 14:21:25`
+- **This Commit Timestamp**: `2025-06-06 13:18:13`
+- **Last Commit SHA**: `e63dcec2a1feef73597103bf5dafa71cee9f17cd`
+- **Last Commit Message**: `Post-GitLab sync at 2025-06-06 12:59:15`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Mon Jun 2 14:24:42 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_DrPeterGaied/commits/eaf0a24572f73035ff934ef3fcc55acf4fe5b2e8](https://bitbucket.org/thefoldwithin/NarcStudy_DrPeterGaied/commits/eaf0a24572f73035ff934ef3fcc55acf4fe5b2e8)
+- **Last Commit Date**: `Fri Jun 6 13:17:41 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_DrPeterGaied/commits/e63dcec2a1feef73597103bf5dafa71cee9f17cd](https://bitbucket.org/thefoldwithin/NarcStudy_DrPeterGaied/commits/e63dcec2a1feef73597103bf5dafa71cee9f17cd)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `47`
+- **Total Commits**: `59`
 - **Tracked Files**: `28`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -47,12 +47,12 @@
 - **Architecture**: `x86_64`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:20:1e:5b`
+- **MAC Address**: `00:15:5d:86:d8:cc`
 - **Local IP**: `172.18.207.124`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 42 minutes`
+- **System Uptime**: `up 11 hours, 59 minutes`
 
 ---
 
