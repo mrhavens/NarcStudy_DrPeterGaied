@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/home/mrhavens/fieldcraft/NarcStudy_DrPeterGaied`
 - **Remote Label**: `remember`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-09 14:27:29`
+- **Repo Created**: `2025-06-09 14:39:00`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-09 14:27:29`
-- **Last Commit SHA**: `5cf1a9d59f569367ef1549d0acf281b31695dd50`
+- **This Commit Timestamp**: `2025-06-09 14:39:00`
+- **Last Commit SHA**: `bfa93eb83b06077792aa679b0854b360d8c58f87`
 - **Last Commit Message**: `Post-Radicle sync at 2025-06-09 14:26:45`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Mon Jun 9 14:27:18 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/5cf1a9d59f569367ef1549d0acf281b31695dd50](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/5cf1a9d59f569367ef1549d0acf281b31695dd50)
+- **Last Commit Date**: `Mon Jun 9 14:38:58 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/bfa93eb83b06077792aa679b0854b360d8c58f87](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/bfa93eb83b06077792aa679b0854b360d8c58f87)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `92`
-- **Tracked Files**: `28`
+- **Total Commits**: `108`
+- **Tracked Files**: `30`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 8 minutes`
+- **System Uptime**: `up 19 minutes`
 - **MAC Address**: `00:15:5d:70:e2:68`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
