@@ -3,27 +3,27 @@
 - **Repo Name**: `NarcStudy_DrPeterGaied`
 - **Forgejo User**: `mrhavens`
 - **Remote URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied)
-- **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_DrPeterGaied`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/NarcStudy_DrPeterGaied`
 - **Remote Label**: `remember`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:20:59`
+- **Repo Created**: `2025-06-09 14:27:29`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:20:59`
-- **Last Commit SHA**: `32f358e80f34c89013d4b0b8172f5efe15b015ac`
-- **Last Commit Message**: `Post-Radicle sync at 2025-06-06 12:59:15`
+- **This Commit Timestamp**: `2025-06-09 14:27:29`
+- **Last Commit SHA**: `5cf1a9d59f569367ef1549d0acf281b31695dd50`
+- **Last Commit Message**: `Post-Radicle sync at 2025-06-09 14:26:45`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:20:55 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/32f358e80f34c89013d4b0b8172f5efe15b015ac](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/32f358e80f34c89013d4b0b8172f5efe15b015ac)
+- **Last Commit Date**: `Mon Jun 9 14:27:18 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/5cf1a9d59f569367ef1549d0acf281b31695dd50](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DrPeterGaied/commit/5cf1a9d59f569367ef1549d0acf281b31695dd50)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `80`
+- **Total Commits**: `92`
 - **Tracked Files**: `28`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 2 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 8 minutes`
+- **MAC Address**: `00:15:5d:70:e2:68`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
