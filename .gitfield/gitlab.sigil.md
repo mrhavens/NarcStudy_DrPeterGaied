@@ -3,28 +3,28 @@
 - **Repo Name**: `NarcStudy_DrPeterGaied`
 - **GitLab User**: `mrhavens`
 - **Remote URL**: [https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied](https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied)
-- **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_DrPeterGaied`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/NarcStudy_DrPeterGaied`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:21:28`
+- **Repo Created**: `2025-06-09 14:38:14`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:21:28`
-- **This Commit SHA**: `101c2fd146e61aefb7aa37b56a1a57108adcb652`
-- **Last Commit Message**: `Post-Forgejo sync at 2025-06-06 12:59:15`
+- **This Commit Timestamp**: `2025-06-09 14:38:14`
+- **This Commit SHA**: `26051f05bfbd0b95b4110abc1dfa64d36a837e90`
+- **Last Commit Message**: `Post-Gitea sync at 2025-06-09 14:26:45`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:21:04 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/101c2fd146e61aefb7aa37b56a1a57108adcb652](https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/101c2fd146e61aefb7aa37b56a1a57108adcb652)
+- **Last Commit Date**: `Mon Jun 9 14:38:04 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/26051f05bfbd0b95b4110abc1dfa64d36a837e90](https://gitlab.com/mrhavens/NarcStudy_DrPeterGaied/-/commit/26051f05bfbd0b95b4110abc1dfa64d36a837e90)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `82`
-- **Tracked Files**: `28`
+- **Total Commits**: `98`
+- **Tracked Files**: `30`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 3 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 18 minutes`
+- **MAC Address**: `00:15:5d:70:e2:68`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
