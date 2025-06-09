@@ -3,28 +3,28 @@
 - **Repo Name**: `NarcStudy_DrPeterGaied`
 - **GitHub User**: `mrhavens`
 - **Remote URL**: [https://github.com/mrhavens/NarcStudy_DrPeterGaied](https://github.com/mrhavens/NarcStudy_DrPeterGaied)
-- **Local Repo Path**: `/home/mrhavens/narcwork/NarcStudy_DrPeterGaied`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/NarcStudy_DrPeterGaied`
 - **Remote Label**: `github`
 - **Default Branch**: `main`
-- **This Commit Date**: `2025-06-06 13:22:18`
+- **This Commit Date**: `2025-06-09 14:38:35`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:22:18`
-- **Last Commit SHA**: `a2631a363ef80239494e18bcc80d921ae9be3abc`
-- **Last Commit Message**: `Post-Bitbucket sync at 2025-06-06 12:59:15`
+- **This Commit Timestamp**: `2025-06-09 14:38:35`
+- **Last Commit SHA**: `253ccec4aaec9b2268ddd68e3b3671977bbcdfbb`
+- **Last Commit Message**: `Post-Bitbucket sync at 2025-06-09 14:26:45`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:21:48 2025 -0500`
-- **This Commit URL**: [https://github.com/mrhavens/NarcStudy_DrPeterGaied/commit/a2631a363ef80239494e18bcc80d921ae9be3abc](https://github.com/mrhavens/NarcStudy_DrPeterGaied/commit/a2631a363ef80239494e18bcc80d921ae9be3abc)
+- **Last Commit Date**: `Mon Jun 9 14:38:21 2025 -0500`
+- **This Commit URL**: [https://github.com/mrhavens/NarcStudy_DrPeterGaied/commit/253ccec4aaec9b2268ddd68e3b3671977bbcdfbb](https://github.com/mrhavens/NarcStudy_DrPeterGaied/commit/253ccec4aaec9b2268ddd68e3b3671977bbcdfbb)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `86`
-- **Tracked Files**: `28`
+- **Total Commits**: `101`
+- **Tracked Files**: `30`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 4 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 19 minutes`
+- **MAC Address**: `00:15:5d:70:e2:68`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
